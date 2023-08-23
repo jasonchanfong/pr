@@ -22,11 +22,11 @@ Sup<sup>123</sup>
 
 Sub<sub>123</sub>
 
-1. asdf
+1. wasd
    1. zxcv
    2. zxcv
-2. asdf
-3. asdf
+2. wasd
+3. wasd
 
 - asdf
   - zxcv
@@ -105,4 +105,3 @@ cout >> "hello";
 
 $$e^{-\frac{t}{RC}}$$
 $$\sum_{1}^{100}(x+1)$$
-
